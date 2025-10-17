@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Code-For-Labs\lab-7-pig-latin-salmonellec-design\bin\Debug\net8.0\lab-7-pig-latin-salmonellec-design.exe
+C:\Users\User\Desktop\Code-For-Labs\lab-7-pig-latin-salmonellec-design\bin\Debug\net8.0\lab-7-pig-latin-salmonellec-design.deps.json
+C:\Users\User\Desktop\Code-For-Labs\lab-7-pig-latin-salmonellec-design\bin\Debug\net8.0\lab-7-pig-latin-salmonellec-design.runtimeconfig.json
+C:\Users\User\Desktop\Code-For-Labs\lab-7-pig-latin-salmonellec-design\bin\Debug\net8.0\lab-7-pig-latin-salmonellec-design.dll
+C:\Users\User\Desktop\Code-For-Labs\lab-7-pig-latin-salmonellec-design\bin\Debug\net8.0\lab-7-pig-latin-salmonellec-design.pdb
+C:\Users\User\Desktop\Code-For-Labs\lab-7-pig-latin-salmonellec-design\obj\Debug\net8.0\lab-7-pig-latin-salmonellec-design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code-For-Labs\lab-7-pig-latin-salmonellec-design\obj\Debug\net8.0\lab-7-pig-latin-salmonellec-design.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code-For-Labs\lab-7-pig-latin-salmonellec-design\obj\Debug\net8.0\lab-7-pig-latin-salmonellec-design.AssemblyInfo.cs
+C:\Users\User\Desktop\Code-For-Labs\lab-7-pig-latin-salmonellec-design\obj\Debug\net8.0\lab-7-pig-latin-salmonellec-design.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code-For-Labs\lab-7-pig-latin-salmonellec-design\obj\Debug\net8.0\lab-7-pig-latin-salmonellec-design.sourcelink.json
+C:\Users\User\Desktop\Code-For-Labs\lab-7-pig-latin-salmonellec-design\obj\Debug\net8.0\lab-7-pig-latin-salmonellec-design.dll
+C:\Users\User\Desktop\Code-For-Labs\lab-7-pig-latin-salmonellec-design\obj\Debug\net8.0\refint\lab-7-pig-latin-salmonellec-design.dll
+C:\Users\User\Desktop\Code-For-Labs\lab-7-pig-latin-salmonellec-design\obj\Debug\net8.0\lab-7-pig-latin-salmonellec-design.pdb
+C:\Users\User\Desktop\Code-For-Labs\lab-7-pig-latin-salmonellec-design\obj\Debug\net8.0\lab-7-pig-latin-salmonellec-design.genruntimeconfig.cache
+C:\Users\User\Desktop\Code-For-Labs\lab-7-pig-latin-salmonellec-design\obj\Debug\net8.0\ref\lab-7-pig-latin-salmonellec-design.dll
